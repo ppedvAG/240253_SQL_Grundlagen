@@ -18,15 +18,17 @@
 	Tag 3:
 	- Aggregate
 	- GROUP BY
+	- Views
 
 	Tag 4:
-	- Views
+	
 	- INSERT/UPDATE/DELETE
 	- CREATE/ALTER/DROP
+	- Temporäre Tabelle
 
 	Tag 5:
 	- gespeicherte Prozeduren
 	- Unterabfragen
 	- CASE
-	- Temporäre Tabelle
+	
 */
